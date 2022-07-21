@@ -66,7 +66,7 @@ global.ownertag = '6288227758096' //ur tag number
 global.botname = 'FazhBoT' //ur bot name
 global.linkz = "Chat Owner" //your theme url which will be displayed on whatsapp
 global.websitex = "Chat Owner" //ur website to be displayed
-global.botscript = 'https://github.com/Fachri31/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/Fachri31' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Fazh Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
@@ -115,14 +115,14 @@ global.mess = {
     wait: '[Loading....]',
     linkm: 'Mana Link nya?',
     error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Batas Harian Anda Telah Kedaluwarsa, Batas Akan Direset Setiap 12 Jam',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
